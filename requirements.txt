@@ -8,4 +8,6 @@ sec_api==1.0.17
 streamlit==1.31.0
 unstructured==0.5.1
 chromadb
-sqlite
+tiktoken
+faiss-cpu
+pysqlite3-binary
